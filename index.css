@@ -1,0 +1,78 @@
+.menubar {
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 20px;
+  padding: 10px;
+}
+.menu {
+  width: 10%;
+  cursor: pointer;
+}
+
+.menu:hover {
+  color: yellow;
+  background-color: orange;
+}
+
+.footinfo {
+  width: 25%;
+  padding-right: 40;
+  padding-left: 40;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: sans-serif;
+  color: white;
+}
+
+.footheader {
+  font-weight: bold;
+}
+
+.content {
+  height: 600px;
+  background-color: white;
+}
+
+.button {
+  font-size: 20px;
+  color: white;
+  background-color: cornflowerblue;
+  margin: 10px;
+  border-radius: 10px;
+  margin-right: 50px;
+}
+
+.gallery {
+  background-color: red;
+  padding: 20px;
+}
+
+.textPicture {
+  display: inline-block;
+  background-color: white;
+  font-family: sans-serif;
+  padding: 10px;
+  border: 2px grey outset;
+  border-radius: 5px;
+}
+
+.tp_title {
+  margin: 10px;
+  font-weight: bold;
+}
+
+.tp_text {
+  margin: 10px;
+}
+
+.wizardControl {
+  background-color: gray;
+  text-align: center;
+  padding: 20px;
+}
+
+.wizardControl button {
+  display: inline-block;
+  padding: 10px;
+}
